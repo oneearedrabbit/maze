@@ -12,7 +12,7 @@ You can play the game in the browser: https://oneearedrabbit.itch.io/the-pixel-m
 
 ## Source code
 
-Source code comes with no almost no assets. I don't have permissions
+Source code comes with no (almost?) assets. I don't have permissions
 to publish them to the public domain.
 
 Please support the author: https://mrmotarius.itch.io/mrmotext. This
